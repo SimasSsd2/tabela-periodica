@@ -1,0 +1,24 @@
+body { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+background-color: black;
+}
+ul {display: flex;
+justify-content: flex-end;
+list-style: none;
+pad: 16px;
+}
+a{color: blue;
+text-decoration: none;}
+img{border: 5px solid blue;}
+button{ color: red; 
+    width: 130px; height: 90px;
+font-size: 2pc;}
+.container {
+    padding: 10px 50px;
+}
+nav a:hover {
+    color: green;
+}
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{ font-size: 1pc;}
